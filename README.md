@@ -8,7 +8,7 @@ Viper assumes you know how to:
 * Use GitHub in a general sense
 
 # Installing
-Choose a location viper will execute from
+Choose a location viper will execute from.
 Pull the project into this directory.
 Essential files for execution:
 * FUNCTIONS.py
@@ -20,8 +20,8 @@ Once all required components have been installed, run xml_conversion.py from Vip
 * Note: It is left to the user to ensure integrity of each ID file.
 
 # Built With
-Python
-Unix
+* Python
+* Unix
 
 # Authors
 Lacey Sikes - Initial creation and testing
